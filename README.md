@@ -4,7 +4,7 @@
 <br>
 
 ## 🧑‍🎓 Programmers
-[![](https://github.com/libtv/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
+[![](https://github.com/CodeMario/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/CodeMario/github-programmers-rank)
 
 <br>
 
@@ -23,7 +23,7 @@ PROGRAMMERS_TOKEN_PW - 프로그래머스 비밀번호
 
 ### 3. set Github Action - 깃허브 액션을 설정합니다.
 
-refer: https://github.com/libtv/github-programmers-rank/blob/master/.github/workflows/github-programmers-rank.yml
+refer: https://github.com/CodeMario/github-programmers-rank/blob/master/.github/workflows/github-programmers-rank.yml
 
 ```yml
 # This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
@@ -102,4 +102,4 @@ jobs:
 
 then, result svg files path is "./lib" : 결과물은 lib 폴더에 존재합니다. 
 
-[![](https://github.com/libtv/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
+[![](https://github.com/CodeMario/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/CodeMario/github-programmers-rank)
